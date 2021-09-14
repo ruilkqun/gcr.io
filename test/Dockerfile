@@ -1,1 +1,1 @@
-FROM mirrorgcrio/conformance-arm64:v1.19.0-beta.1
+FROM k8s.gcr.io/conformance-arm:v1.19.8
